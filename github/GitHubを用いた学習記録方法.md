@@ -4,5 +4,5 @@ til（Today I Learned）リポジトリを作成し、ジャンルごとにデ�
 当面の間は転職することが目的ではあるが、転職後もエンジニアとしてのスキルアップも見据えて、うわべだけの記録にならないように気をつけていきたい。
 
 ## 参考文献
-[Githubのリポジトリ「TIL」を使って小さなアウトプットを習慣化する](https://qiita.com/nemui_/items/239335b4ed0c3c797add)
+[Githubのリポジトリ「TIL」を使って小さなアウトプットを習慣化する](https://qiita.com/nemui_/items/239335b4ed0c3c797add)  
 [Markdown記法 チートシート](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa#file-markdown-cheatsheet-md)
