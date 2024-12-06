@@ -1,5 +1,5 @@
 # Markdown記法を自分でまとめ直してみる
-自分で記述することで記憶の定着を目的とする。
+自分で記述することで理解の促進、記憶の定着を目的とする。
 
 ## 見出し
 見出しの段階の数だけ`#`と半角スペースを1つ` `先頭に記述する。  
@@ -76,3 +76,45 @@ print 'hello'
 私は`りんご`を食べた。
 ```
 私は`りんご`を食べた。
+
+
+## 整形済みテキスト(preformatted text)
+半角スペース` `4つ、もしくはタブキー入力で、コードブロックをPRE表示する。
+
+```
+  class Hoge
+    def hoge
+      print 'hoge'
+    end
+  end
+```
+  class Hoge
+    def hoge
+      print 'hoge'
+    end
+  end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 参考ページ
+[Markdown記法 チートシート](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa#file-markdown-cheatsheet-)
