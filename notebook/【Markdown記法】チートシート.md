@@ -79,20 +79,20 @@ print 'hello'
 
 
 ## 整形済みテキスト(preformatted text)
-半角スペース` `4つ、もしくはタブキー入力で、コードブロックをPRE表示する。
+半角スペース` `4つでコードブロックをPRE表示する。
 
 ```
-  class Hoge
-    def hoge
-      print 'hoge'
+    class Hoge
+        def hoge
+            print 'hoge'
+        end
     end
-  end
 ```
-  class Hoge
-    def hoge
-      print 'hoge'
+    class Hoge
+        def hoge
+            print 'hoge'
+        end
     end
-  end
 
 
 
