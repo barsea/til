@@ -169,7 +169,21 @@ ___
 1. リスト6
 
 
+## リンク
+`[表示文字](URL)`と記述する。
+```
+[Google](https://www.google.co.jp/)
+```
+[Google](https://www.google.co.jp/)
 
+### 外部参照リンク
+リンク先への参照を定義する。同じリンクを何度も使用する場合などに活用。
+```
+[Google]: http://www.yahoo.co.jp
+[Googleを見る][Google]
+```
+[Google]: http://www.yahoo.co.jp
+[Googleを見る][Google]
 
 
 
