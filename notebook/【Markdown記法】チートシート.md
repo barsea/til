@@ -247,8 +247,8 @@ ___
 <img src="attach:cat.jpg" alt="attach:cat" title="attach:cat" width="200" height="200">
 ```
 ![代替テキスト](画像URL)
-![代替テキスト](URL "タイトル")
-<img src="attach:cat.jpg" alt="attach:cat" title="attach:cat" width="200" height="200">
+![代替テキスト](画像URL "タイトル")
+<img src="画像URL" alt="代替テキスト" title="タイトル" width="100" height="100">
 
 
 
